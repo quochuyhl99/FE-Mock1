@@ -1,0 +1,14 @@
+.icon {
+    width: 25px;
+    height: 25px;
+}
+
+.exclude-flex {
+    flex: 0 0 100%;
+}
+
+.collapsing {
+    -webkit-transition: none;
+    transition: none;
+    display: none;
+}
